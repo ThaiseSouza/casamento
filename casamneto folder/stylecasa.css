@@ -1,0 +1,77 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1,6;
+
+}
+header.hero{
+    background:url('https://blog.caju.com.br/wp-content/uploads/2023/10/sandy-millar-8vaQKYnawHw-unsplash-856x482.jpg') no-repeat center center/cover;
+    color: rgb(0, 0, 0);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-shadow: 2px 2px #ffffff;
+}
+.hero-content{
+    max-width: 600px;
+    margin: auto;
+}
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+#h21{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #d17b26c0;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+#h22{
+    color:#9f5c1ac0 ;
+}
+section{
+    padding:60px 20px;
+    text-align: center;
+}
+.about-section{
+    background-color: #f4f4f4;
+}
+.schedule-section{
+    background-color: #ffffff;
+}
+.schedule-item{
+    margin-bottom: 20px;
+}
+.schedule-item h3{
+    font-size: 1.5rem;
+    color: #9f5c1ac0;
+    text-align: center;
+}
+.schedule-item p {
+    font-size: 1rem;
+    text-align: center;
+}
+.contact-section{
+    background-color: #f4f4f4;
+}
+footer.footer{
+    background-color: #9f5c1ac0;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+a#link{
+    color:#9f5c1ac0;
+}
